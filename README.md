@@ -193,7 +193,7 @@ After outlier removal around ~8000 properties remained in my final dataset. I ne
 ![Alt text](assets/mean_median_bar_chart.png?raw=true)
 
 
-### [Tableau Visualisation by location](https://prod-uk-a.online.tableau.com/t/oscarmumford/views/Grouped_area_bromley_croydon/AveragePriceDashboard2/0fdf8807-798a-468e-8cf3-cdbb8c32d0d3/1549b4fc-ddef-4c25-b1e9-2a2bb37029d9?:display_count=n&:showVizHome=n&:origin=viz_share_link)
+### [Tableau Visualisation by location](https://public.tableau.com/app/profile/oscar.mumford/viz/Grouped_area_bromley_croydon_public/AveragePriceDashboard2)
 
 
 To better visualise my data geographically I created dashboards (interactive charts) using Tableau software and shared them online.
@@ -207,9 +207,9 @@ These were plotted in Tableau using the geocoded coordinates created earlier.
 
 #### Interactive dashboard displaying average price by postcode and by number of bedrooms 
 
-[![Alt text](assets/tableau_dashboard.png?raw=true)](https://prod-uk-a.online.tableau.com/t/oscarmumford/views/Grouped_area_bromley_croydon/AveragePriceDashboard2/0fdf8807-798a-468e-8cf3-cdbb8c32d0d3/1549b4fc-ddef-4c25-b1e9-2a2bb37029d9?:display_count=n&:showVizHome=n&:origin=viz_share_link)
+[![Alt text](assets/tableau_dashboard.png?raw=true)](https://public.tableau.com/app/profile/oscar.mumford/viz/Grouped_area_bromley_croydon_public/AveragePriceDashboard2)
 
-Please follow the link to interact with my [Tableau Visualisation showing average prices by postcode](https://prod-uk-a.online.tableau.com/t/oscarmumford/views/Grouped_area_bromley_croydon/AveragePriceDashboard2/0fdf8807-798a-468e-8cf3-cdbb8c32d0d3/1549b4fc-ddef-4c25-b1e9-2a2bb37029d9?:display_count=n&:showVizHome=n&:origin=viz_share_link) directly where you can control the number of bedrooms and see average prices.
+Please follow the link to interact with my [Tableau Visualisation showing average prices by postcode](https://public.tableau.com/app/profile/oscar.mumford/viz/Grouped_area_bromley_croydon_public/AveragePriceDashboard2) directly where you can control the number of bedrooms and see average prices.
 
 ### Historical Price Change 
 
